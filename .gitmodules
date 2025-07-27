@@ -1,0 +1,3 @@
+[submodule "samples/inet"]
+	path = samples/inet
+	url = git@github.com:ahmedhussien91/inet.git
