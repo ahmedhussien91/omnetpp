@@ -47,7 +47,7 @@ PREFER_LLD=yes
 # default language compliance level is lower than C++14. These options will be
 # used when compiling OMNeT++ and also when compiling simulation models.
 #
-#CXXFLAGS=-std=c++17
+CXXFLAGS=-std=c++17
 
 #
 # Linker switches used for linking.
